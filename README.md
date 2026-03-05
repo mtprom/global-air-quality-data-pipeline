@@ -1,4 +1,4 @@
-# Global Urban Air Quality Analysis
+# Global Air Quality Data Pipeline
 
 **Authors:**
 **Maclain Prom** – Data pipeline architecture, data collection, integration, analysis, and visualization implementation
